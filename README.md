@@ -1,4 +1,4 @@
-# @segment/analytics-react-native-plugin-taplytics
+# @taplytics/segment-react-native-plugin-taplytics
 
 `DestinationPlugin` for [Taplytics](https://taplytics.com/). Wraps [`taplytics-react-native`](https://github.com/taplytics/taplytics-react-native).
 
