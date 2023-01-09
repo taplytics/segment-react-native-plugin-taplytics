@@ -29,7 +29,7 @@ In your code where you initialize the analytics client call the `.add(plugin)` m
 ```ts
 import { createClient } from '@segment/analytics-react-native';
 
-import { TaplyticsPlugin } from '@segment/analytics-react-native-plugin-taplytics';
+import { TaplyticsPlugin } from '@taplytics/segment-react-native-plugin-taplytics';
 
 const segmentClient = createClient({
   writeKey: 'SEGMENT_KEY'
