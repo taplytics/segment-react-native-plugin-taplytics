@@ -355,10 +355,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-taplytics-react-native@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/taplytics-react-native/-/taplytics-react-native-3.1.0.tgz#96cd967e05f00eeb21392bc07ecf5996c09bbbb1"
-  integrity sha512-p20H3SL0dUZ6KA+Yrihp1RfH20iPS+ABQcj3hs7FGREx9898GauOaD+I7FUzOs8bl3PsZBBcbaOyzLPn69aMzQ==
+taplytics-react-native@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/taplytics-react-native/-/taplytics-react-native-3.1.1.tgz#ef14c4a4b4d2bb953776ee6868cfb14bbaf3ea1a"
+  integrity sha512-nrnpZrrQZF5muHLfHd3Rxk4s7gPmEBRAke6Ss+x/WwngXNgn4RhFEphZqQzhxfqvzM48gNU8YwgMxnyrDIgcAQ==
   dependencies:
     lodash.clonedeep "*"
 

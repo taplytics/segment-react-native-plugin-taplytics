@@ -1,6 +1,6 @@
 {
   "name": "@taplytics/segment-react-native-plugin-taplytics",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Integrate Segment analytics with Taplytics as a destination for your React-Native app.",
   "type": "module",
   "main": "src/index.ts",
@@ -67,6 +67,6 @@
   },
   "dependencies": {
     "@segment/analytics-react-native": "^2.1.10",
-    "taplytics-react-native": "^3.1.0"
+    "taplytics-react-native": "^3.1.1"
   }
 }
