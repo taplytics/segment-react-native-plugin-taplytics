@@ -3,6 +3,7 @@
 `DestinationPlugin` for [Taplytics](https://taplytics.com/). Wraps [`taplytics-react-native`](https://github.com/taplytics/taplytics-react-native).
 
 ## Installation
+### Install Segment React Native
 Install the [`@segment/analytics-react-native`](https://github.com/segmentio/analytics-react-native#installation) dependency.
 
 ```bash
@@ -10,8 +11,8 @@ yarn add @segment/analytics-react-native @segment/sovran-react-native @react-nat
 # or
 npm install --save @segment/analytics-react-native @segment/sovran-react-native @react-native-async-storage/async-storage
 ```
-
-You need to install the `@taplytics/segment-react-native-plugin-taplytics` and the `taplytics-react-native` dependency.
+### Install the Taplytics React Native plugin
+Install the `@taplytics/segment-react-native-plugin-taplytics` and the `taplytics-react-native` dependency.
 
 Using NPM:
 ```bash
@@ -24,6 +25,8 @@ yarn add @taplytics/segment-react-native-plugin-taplytics taplytics-react-native
 ```
 
 Run `pod install` after the installation to autolink the Taplytics SDK.
+
+### Setup Taplytics
 
 Follow the instructions to setup Taplytics for [iOS](https://docs.taplytics.com/docs/react-native-sdk#ios-setup) and [Android](https://docs.taplytics.com/docs/react-native-sdk#android-setup)
 

@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Fixed TypeScript lint issues by removing "types" field from `package.json`.
+
 ## 0.1.1
 
 - Updated Taplytics React Native sdk dependency.
