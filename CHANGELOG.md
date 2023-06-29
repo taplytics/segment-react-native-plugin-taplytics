@@ -1,3 +1,7 @@
+## 0.1.4
+
+- Send all custom attributes as customData to Taplytics
+
 ## 0.1.3
 
 - Fixed sending all Taplytics user attributes and custom attributes

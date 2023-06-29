@@ -1,6 +1,6 @@
 {
   "name": "@taplytics/segment-react-native-plugin-taplytics",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Integrate Segment analytics with Taplytics as a destination for your React-Native app.",
   "type": "module",
   "main": "src/index.ts",
