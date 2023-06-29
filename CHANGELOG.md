@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Fixed sending all Taplytics user attributes and custom attributes
+
 ## 0.1.2
 
 - Fixed TypeScript lint issues by removing "types" field from `package.json`.
