@@ -1,3 +1,8 @@
+## 0.1.5
+
+- Support custom attributes as well as the customData attribute
+- Bump semver from 7.3.6 to 7.5.3
+
 ## 0.1.4
 
 - Send all custom attributes as customData to Taplytics
